@@ -4,10 +4,10 @@
 }
 
 body{
-	background-size: cover;
 	color: #fff;
 	font-family: 'Open Sans', sans-serif;
-  	background: url('../images/anders-jilden-307322.jpg');
+  	background: url('../images/sunset-over-the-san-francisco-aerial-shot-picjumbo-com.jpg');
+	background-size: cover;
 }
 
 a{
@@ -33,7 +33,7 @@ div img{
 	height: 200px;
 	border-radius: 50%;
 	border: 2px solid #fff;
-	filter: brightness(0.8) drop-shadow(0px 0px 20px #fff);
+	filter: grayscale(50%) drop-shadow(0px 0px 20px #fff);
 }
 
 div, h1, p{
