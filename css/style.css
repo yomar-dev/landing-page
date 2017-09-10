@@ -71,7 +71,6 @@ div.data{
 
 div.data a{
 	display: inline-block;
-	background: #555;
 	transform: rotate(45deg);
 	padding: .5em;
 	opacity: .7;
@@ -87,4 +86,32 @@ div.data a:hover{
 i.fa{
 	transition: all .8s linear;	
 	transform: rotate(-45deg);
+}
+
+a.github{
+	background: #555;
+}
+
+a.facebook{
+	background: #3d5c95;
+}
+
+a.twitter{
+	background: #52a9ec;
+}
+
+a.linkedin{
+	background: #0274b3;
+}
+
+a.skype{
+	background: #019fde;
+}
+
+a.firefox{
+	background: #ee8424;
+}
+
+a.gitlab{
+	background: #ff7043;
 }
