@@ -69,11 +69,22 @@ div.data{
 	margin-top: 2em;
 }
 
-i.fa{
-	transition: all .8s linear;
+div.data a{
+	display: inline-block;
+	background: #555;
+	transform: rotate(45deg);
+	padding: .5em;
+	opacity: .7;
+	box-shadow: 6px 6px 0px #fff;
+	transition: all 1s linear;
 }
 
-i.fa:hover{
-	transform: scale(1.5);
+div.data a:hover{
+	box-shadow: 0px 0px 0px #fff;
 	transition: all 1s linear;
+}
+
+i.fa{
+	transition: all .8s linear;	
+	transform: rotate(-45deg);
 }
