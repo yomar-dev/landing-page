@@ -56,3 +56,8 @@ p a{
 	color: #555;
 	opacity: .8;
 }
+
+p a:hover{
+	background: #ccc;
+	color: #333;
+}
