@@ -61,3 +61,10 @@ p a:hover{
 	background: #ccc;
 	color: #333;
 }
+
+div.data{
+	width: 600px;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 2em;
+}
