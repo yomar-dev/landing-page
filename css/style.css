@@ -68,3 +68,12 @@ div.data{
 	justify-content: space-around;
 	margin-top: 2em;
 }
+
+i.fa{
+	transition: all .8s linear;
+}
+
+i.fa:hover{
+	transform: scale(1.5);
+	transition: all 1s linear;
+}
