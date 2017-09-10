@@ -39,3 +39,7 @@ div img{
 div, h1, p{
 	padding: .4em 0em;
 }
+
+h1{
+	font-size: 2.5em;
+}
