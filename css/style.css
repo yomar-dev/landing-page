@@ -46,15 +46,17 @@ h1{
 
 p{
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	width: 350px;
 }
 
 p a{
 	background: #fff;
-	padding: .5em 2em;
+	padding: .5em .8em;
 	color: #555;
 	opacity: .8;
+	width: 40%;
+	text-align: center;
 }
 
 p a:hover{
